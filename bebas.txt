@@ -1,9 +1,1 @@
 Praktikum1 saja
-
-Waktu1 = int(input ("masukkan lama parkir (jam)"))
-Waktu2 = int(input ("masukkan lama parkir (jam)"))
-waktu = Waktu1 - 1
-Biaya1 = 5000
-Biaya2 = (Waktu2 + waktu) * 3000
-total = Biaya1 + Biaya2
-print (f"total :", total)
